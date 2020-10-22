@@ -8,5 +8,6 @@ This is a personal repo about Database and Algorithms in Java | Python | C | C++
 - [youtube from MisterCode - Deletion for Red-Black Trees](https://www.youtube.com/watch?v=_c30ot0Kcis)
 
 ## Max Heap
+- [youtube - HackerRank(Gayle Laakmann McDowell) - Data Structures: Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 - [blog - GeeksforGeeks - Max Heap in Java](https://www.geeksforgeeks.org/max-heap-in-java/)
 - [blog - Sanfoundry - Min/Max Heap Multiple Choice Questions and Answers (MCQs)a](https://www.sanfoundry.com/min-max-heap-multiple-choice-questions-answers-mcqs/)
