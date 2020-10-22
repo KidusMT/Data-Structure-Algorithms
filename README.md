@@ -6,3 +6,7 @@ This is a personal repo about Database and Algorithms in Java | Python | C | C++
 - [youtube from Jenny - Introductory](https://www.youtube.com/watch?v=3RQtq7PDHog)
 - [youtube from Jenny - Deletion in red black tree](https://www.youtube.com/watch?v=w5cvkTXY0vQ)
 - [youtube from MisterCode - Deletion for Red-Black Trees](https://www.youtube.com/watch?v=_c30ot0Kcis)
+
+## Max Heap
+- [blog - GeeksforGeeks - Max Heap in Java](https://www.geeksforgeeks.org/max-heap-in-java/)
+- [blog - Sanfoundry - Min/Max Heap Multiple Choice Questions and Answers (MCQs)a](https://www.sanfoundry.com/min-max-heap-multiple-choice-questions-answers-mcqs/)
