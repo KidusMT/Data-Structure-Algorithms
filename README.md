@@ -11,3 +11,6 @@ This is a personal repo about Database and Algorithms in Java | Python | C | C++
 - [youtube - HackerRank(Gayle Laakmann McDowell) - Data Structures: Heaps](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
 - [blog - GeeksforGeeks - Max Heap in Java](https://www.geeksforgeeks.org/max-heap-in-java/)
 - [blog - Sanfoundry - Min/Max Heap Multiple Choice Questions and Answers (MCQs)a](https://www.sanfoundry.com/min-max-heap-multiple-choice-questions-answers-mcqs/)
+
+## AVL Tree
+- [youtube - MIT OpenCourseWare - AVL Trees, AVL Sort](https://www.youtube.com/watch?v=FNeL18KsWPc)
