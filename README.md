@@ -16,3 +16,4 @@ Please check out Jenny's video..hehe you will fall in love with her 🥰 while y
 
 ## AVL Tree
 - [youtube - MIT OpenCourseWare - AVL Trees, AVL Sort](https://www.youtube.com/watch?v=FNeL18KsWPc)
+- [Construct AVL tree for the elements 1,2,3,4,5,6,7,8|AVL Tree Insertion with example - by Sudhakar Atchala](https://www.youtube.com/watch?v=NWe2xmaroLY)
