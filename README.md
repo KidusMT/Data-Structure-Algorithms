@@ -1,7 +1,7 @@
 # Data-Structure-Algorithms
 This is a personal repo about Database and Algorithms in Java | Python | C | C++.
 
-Please check out Jenny's video..hehe you will fall in love with her 🥰 while you understading every concept. [Best teacher](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+Please check out Jenny's video..hehe you will fall in love with her 🥰 while you understading every concept. [112 Videos - Best teacher](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 
 ## Red-Black Trees
 - [from USNA](https://www.usna.edu/Users/cs/crabbe/SI321/current/red-black/red-black.html#:~:text=In%20this%20manner%2C%20the%20double,black%2C%20and%20y%20is%20red.)
